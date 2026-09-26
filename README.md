@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-🚀 **Deployed Application:** [link]
+🚀 **Deployed Application:** [https://noteappforschool.netlify.app]
 
 ## What It Does
 
